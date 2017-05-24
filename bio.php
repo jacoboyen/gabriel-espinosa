@@ -33,6 +33,9 @@
         <p> In March of 2014 Espinosa and Merukens started to record their new production <span class="band">Samba Little Samba</span>. The CD came out the month of October of 2014. The group will have a CD release concert at The Iridium Jazz (in New York City) in the summer of 2015. </p>
         <p> In October of 2014 Gabriel was awarded a recipient of the Hall of Fame by the Greater Des Moines Community Jazz Center in Des Moines, Iowa. </p>
         <p> In November of 2014 Espinosa presented de music of his new CD <span class="band">Samba Little Samba</span> at the Festival de la Cultura Maya in Merida, Yucatan Mexico. Also in January of 2015 Espinosa and Meurkens presented a concert at the Tucson Jazz Festival. </p>
+        <p> Gabriel and <span class="author">Hendrik Meurkens</span> had a CD release at the Iridium in New York City on August 2, 2015. They also performed at the Riviera Maya Jazz Festival on November 26, 2015.</p>
+        <p> Gabriel presented a concert with Antonio Sanchez and Anat Cohen at Grinnell College in Feb 2016.</p>
+        <p> On October of 2016 Gabriel released his fourth solo CD, <span class="band">“Songs of Bacharach and Manzanero”</span> with special guest and seven time Grammy nominee <span class="author">Tierney Sutton</span>. The band had  a CD release concert in Merida, Mexico on January 19,2017. The group also had  a CD release at “Noce” in Des Moines, Iowa on March 9 & 10 2017</p>
       </div>
     </section>
 
