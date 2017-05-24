@@ -1,0 +1,172 @@
+/* ---------------------------------------
+Helper styles
+--------------------------------------- */
+.clearBoth{
+  clear: both;
+}
+/* ---------------------------------------
+Base HTML styles
+--------------------------------------- */
+html{
+  background-color: #fff;
+  font-family: helvetica, sans-serif;
+}
+p{
+  margin: 1em 0;
+  line-height: 1.5em;
+}
+h1{
+  font-size: 2em;
+  color: #0067c3;
+  margin: .5em 0;
+}
+h2{
+  font-size: 1.5em;
+  border-top: 1px solid #ccc;
+  padding: 1em 0;
+}
+strong{
+  font-weight: bold;
+}
+/* ---------------------------------------
+Backgrounds
+--------------------------------------- */
+.leftSideBG{
+  background-image: url(/images/src/leftSideBackground.png);
+  position: absolute;
+  left: 0;
+  top: 100px;
+  z-index: -1;
+  width: 346px;
+  height: 1200px;
+  opacity: .5;
+}
+.rightSideBG{
+  background-image: url(/images/src/rightSideBackground.png);
+  position: absolute;
+  right: 0;
+  top: 20px;
+  z-index: -1;
+  width: 244px;
+  height: 1200px;
+  opacity: .5;
+}
+/* ---------------------------------------
+Text Styles
+--------------------------------------- */
+div.firstLetter p:first-letter{
+  font-size: 200%;
+  color: #990000;
+}
+.author, .title, .band{
+  font-weight: bold;
+  font-size: 1.334em;
+}
+.alignCenter{
+  text-align: center;
+}
+/* ---------------------------------------
+Picture Styles
+--------------------------------------- */
+img.alignCenter{
+  display: block;
+  margin: 0 auto;
+}
+/* ---------------------------------------
+Base HTML styles
+--------------------------------------- */
+.logo{
+  padding: 1em;
+  display: block;
+  text-align: center;
+}
+nav.primary{
+  margin: 0 1em;
+  text-align: center;
+}
+nav.primary a:link, nav.primary a:visited{
+  display: inline-block;;
+  margin: .5em;
+  padding: .5em;
+  background-color: #0067c3;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: .5em;
+  border: 2px solid #003366;
+  font-weight: bold;
+}
+nav.primary a:hover{
+  background-color: #003366;
+}
+/* ---------------------------------------
+Overlay
+--------------------------------------- */
+.overlay{
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  background-color: rgba(255,255,255,0.9);
+  display: none;
+}
+.overlayContent {
+    position: relative;
+    top: 5%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+.dismiss{
+  color: #fff;
+  z-index: 2;
+  cursor:pointer;
+}
+/* ---------------------------------------
+Audio Player
+--------------------------------------- */
+section.audioPlayer{
+  text-align: center;
+  width: 100%;
+  background-color: rgba(0, 103, 195, .8);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: .5em 0;
+}
+audio{
+  background-color: #000;
+}
+.active::before{
+  content:"\00bb";
+  margin: 0 .25em;
+}
+.active{
+  background-color: #ccc;
+  padding: 1em;
+}
+ul#playlist li, ul#playlist2 li, ul#playlist3 li, ul#playlist4 li{
+  border-bottom: 1px solid #ccc;
+  padding: .25em 0;
+}
+ul#playlist li:last-child, ul#playlist2 li:last-child, ul#playlist3 li:last-child, ul#playlist4 li:last-child{
+  border-bottom: none;
+}
+ul#playlist li a:link, ul#playlist li a:visited, ul#playlist2 li a:link, ul#playlist2 li a:visited, ul#playlist3 li a:link, ul#playlist3 li a:visited, ul#playlist4 li a:link, ul#playlist4 li a:visited{
+  color: #333;
+  text-decoration: none;
+}
+/* ---------------------------------------
+Gallery
+--------------------------------------- */
+.gallery{
+  text-align: center;
+}
+.gallery a img{
+  margin: .25em;
+}
+.posterHighlight img{
+  width: 100%;
+}
