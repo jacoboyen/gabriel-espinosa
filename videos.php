@@ -15,6 +15,8 @@
     <?php include('templates/primaryNav.php');?>
     <section class="container">
       <div class="twelve columns firstLetter">
+        <p class="alignCenter"><iframe width="500" height="284" src="https://www.youtube.com/embed/t8cm4MmQ-eI" frameborder="0" allowfullscreen></iframe></p>
+        <p class="alignCenter"><iframe width="500" height="284" src="https://www.youtube.com/embed/5L2oJtUx9hw" frameborder="0" allowfullscreen></iframe></p>
         <p class="alignCenter"><iframe width="500" height="284" src="https://www.youtube.com/embed/n1hfLUhe1TM" frameborder="0" allowfullscreen></iframe></p>
         <p class="alignCenter"><iframe width="500" height="284" src="https://www.youtube.com/embed/xaD9Voxbyxc" frameborder="0" allowfullscreen></iframe></p>
         <p class="alignCenter"><iframe width="500" height="284" src="https://www.youtube.com/embed/Kly7a7BJ6HU" frameborder="0" allowfullscreen></iframe></p>
